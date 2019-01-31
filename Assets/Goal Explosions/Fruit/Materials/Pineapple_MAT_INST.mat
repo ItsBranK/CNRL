@@ -1,0 +1,5 @@
+Diffuse=Fruit_Sliced_Seq_D
+Normal=Fruit_Sliced_Seq_N
+SpecPower=Fruit_Seq_SpecMask
+Other[0]=Fruit_Seq_N
+Other[1]=Fruit_Seq_D

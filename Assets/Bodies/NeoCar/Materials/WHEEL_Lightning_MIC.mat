@@ -1,0 +1,7 @@
+Diffuse=Rim_Lightning_01_D
+Normal=Rim_Lightning_01_N
+Emissive=Rim_Lightning_01_E
+Other[0]=Tire_Lighting_01_D
+Other[1]=Tire_Lighting_01_N
+Other[2]=Matte_N
+Other[3]=Tire_Lighting_01_E

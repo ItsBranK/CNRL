@@ -1,0 +1,7 @@
+Diffuse=Body_Ron_Chassis_D
+Normal=Body_Ron_Chassis_N
+Other[0]=Body_Ron_Chassis_PBR
+Other[1]=Chassis_Rye_Lights_N
+Other[2]=Chassis_Rye_Lights_PBR
+Other[3]=Chassis_Rye_Lights_D
+Other[4]=SphereGradientMask_T

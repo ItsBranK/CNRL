@@ -1,0 +1,5 @@
+Diffuse=FlatCar_Chassis_D
+Normal=FlatCar_Chassis_N
+Other[0]=Chassis_FlatCar_RGB
+Other[1]=Body_Darkcar_D
+Other[2]=Darkcar_Chassis_RGB

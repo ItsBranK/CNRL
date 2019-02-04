@@ -1,0 +1,12 @@
+Diffuse=WHEEL_NeoCar_BackTire_D
+Normal=WHEEL_NeoCar_BackTire_N
+Emissive=Rim_Lightning_01_E
+Other[0]=WHEEL_NeoCar_BackTire_M
+Other[1]=Tire_BakeSheet_M
+Other[2]=Tire_BakeSheet_N
+Other[3]=Rim_Lightning_01_D
+Other[4]=Rim_Lightning_01_N
+Other[5]=Tire_Lighting_01_D
+Other[6]=Tire_Lighting_01_N
+Other[7]=Matte_N
+Other[8]=Tire_Lighting_01_E

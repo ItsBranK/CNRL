@@ -1,0 +1,5 @@
+Diffuse=Chassis_TruckTruck_D
+Normal=Chassis_TruckTruck_N
+Other[0]=Chassis_TruckTruck_RGB
+Other[1]=Body_Darkcar_D
+Other[2]=Darkcar_Chassis_RGB

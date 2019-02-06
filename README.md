@@ -13,6 +13,6 @@ I don't plan on uploading the official sound track, there's no new or different 
 - Work on uMod ready files for direct use in normal RL.
 
 ## Contact
-If you notice any problems or have a suggestion feel free to message me on Discord, I also hang out in the BakkesMod Discord server often.
+If you notice any problems or have a suggestion feel free to message me on Discord, I also hang out in the BakkesMod Discord server.
 
 Discord: ItsBranK#4095

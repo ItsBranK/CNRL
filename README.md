@@ -4,7 +4,7 @@ A side project I'm working on, decrypting files and exporting them to a usable/e
 
 ## Notes
 
-It takes time converting all of these files so I included the raw UPK files if you can't wait for me and want to do it yourself.
+It takes time converting everything so I included the raw UPK files if you can't wait for me and want to do it yourself.
 
 I don't plan on uploading the official sound track, there's no new or different songs anyway.
 

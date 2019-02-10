@@ -1,0 +1,5 @@
+Diffuse=Sled_Diffuse
+Normal=Sled_Normal
+Specular=Sled_Spec
+Other[0]=GingerbreadHouse_Normal
+Other[1]=GingerbreadHouse_Diffuse

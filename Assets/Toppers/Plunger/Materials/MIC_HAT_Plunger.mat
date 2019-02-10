@@ -1,0 +1,5 @@
+Diffuse=HAT_plunger_D
+Normal=HAT_plunger_N
+Specular=HAT_plunger_D
+Other[0]=Hat_Viking_Helmet_Normal
+Other[1]=Hat_Viking_Helmet_Diffuse

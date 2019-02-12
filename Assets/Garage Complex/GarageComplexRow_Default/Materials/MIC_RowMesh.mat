@@ -1,0 +1,7 @@
+Diffuse=CHN_RowMesh00_D
+Normal=CHN_RowMesh00_N
+Other[0]=CHN_RowMesh00_RGB
+Other[1]=CHG_CenterPlatfromRing00_N
+Other[2]=CHG_CenterPlatfromRing00_D
+Other[3]=CHG_CenterPlatfromRing00_RGB
+Other[4]=SimpleLightmap_3_1

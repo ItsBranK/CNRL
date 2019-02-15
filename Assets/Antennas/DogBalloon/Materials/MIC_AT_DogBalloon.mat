@@ -1,0 +1,5 @@
+Diffuse=AT_DogBalloon_D
+Normal=AT_DogBalloon_N
+Specular=AT_DogBalloon_D
+Other[0]=Hat_Viking_Helmet_Normal
+Other[1]=Hat_Viking_Helmet_Diffuse

@@ -1,0 +1,5 @@
+Diffuse=Antenna_UrbanBall_D
+Normal=Antenna_UrbanBall_N
+Other[0]=Antenna_UtopiaBall_Normal
+Other[1]=Antenna_UtopiaBall_Diffuse
+Other[2]=Antenna_UtopiaBall_Swirls_D

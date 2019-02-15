@@ -1,0 +1,5 @@
+Diffuse=Antenna_Saturn_Diffuse
+Normal=Antenna_Saturn_Normal
+Specular=Antenna_Saturn_Diffuse
+Other[0]=Hat_Viking_Helmet_Normal
+Other[1]=Hat_Viking_Helmet_Diffuse

@@ -1,0 +1,5 @@
+Diffuse=SoccerBall_D
+Normal=SoccerBall_N
+Specular=SoccerBall_D
+Other[0]=Hat_Viking_Helmet_Normal
+Other[1]=Hat_Viking_Helmet_Diffuse

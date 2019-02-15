@@ -1,0 +1,5 @@
+Diffuse=AT_Satellite_D
+Normal=AT_Satellite_N
+Specular=AT_Satellite_D
+Other[0]=Hat_Viking_Helmet_Normal
+Other[1]=Hat_Viking_Helmet_Diffuse

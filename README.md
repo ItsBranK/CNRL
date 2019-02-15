@@ -6,8 +6,6 @@ A side project I'm working on, decrypting files and exporting them to a usable/e
 
 It takes time converting everything so I included the raw UPK files if you can't wait for me and want to do it yourself.
 
-I don't plan on uploading the official sound track, there's no new or different songs anyway.
-
 ## To-Do List
 
 - Finish uploading all decrypted & organized Assets.

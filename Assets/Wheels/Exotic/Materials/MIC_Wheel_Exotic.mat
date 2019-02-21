@@ -1,0 +1,11 @@
+Diffuse=Wheel_Exotic_D
+Normal=Wheel_Exotic_N
+Emissive=Rim_Lightning_01_E
+Other[0]=Wheel_Exotic_RGB
+Other[1]=Tire_Exotic_D
+Other[2]=Tire_Exotic_N
+Other[3]=WHEEL_ThreeSpoke00_N
+Other[4]=Tire_Lighting_01_N
+Other[5]=Matte_N
+Other[6]=WHEEL_ThreeSpoke00_D
+Other[7]=Tire_Lighting_01_D

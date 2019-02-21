@@ -1,0 +1,6 @@
+Diffuse=WHEEL_ThreeSpoke00_D
+Normal=WHEEL_ThreeSpoke00_N
+Emissive=Rim_Lightning_01_E
+Other[0]=Tire_Lighting_01_N
+Other[1]=Matte_N
+Other[2]=Tire_Lighting_01_D

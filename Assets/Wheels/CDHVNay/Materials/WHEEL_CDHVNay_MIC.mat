@@ -1,0 +1,13 @@
+Diffuse=CDHVNay_Wheel_Wheel_D
+Normal=CDHVNay_Wheel_Wheel_N
+Emissive=Rim_Lightning_01_E
+Other[0]=CHN_VDay_Wheel_Wheel_E
+Other[1]=CHN_VDay_Wheel_Tread_E
+Other[2]=CDHVNay_Wheel_Tread_D
+Other[3]=CDHVNay_Wheel_Tread_N
+Other[4]=Rim_Lightning_01_N
+Other[5]=Tire_Lighting_01_N
+Other[6]=Matte_N
+Other[7]=Tire_Lighting_01_E
+Other[8]=Rim_Lightning_01_D
+Other[9]=Tire_Lighting_01_D

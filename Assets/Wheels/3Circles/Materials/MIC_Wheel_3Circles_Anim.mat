@@ -1,0 +1,7 @@
+Diffuse=Wheel_3Circles_D
+Normal=Wheel_3Circles_N
+Other[0]=Wheel_3Circles_M
+Other[1]=Tire_3Circles_N
+Other[2]=Matte_N
+Other[3]=CoordMask
+Other[4]=Tire_3Circles_D

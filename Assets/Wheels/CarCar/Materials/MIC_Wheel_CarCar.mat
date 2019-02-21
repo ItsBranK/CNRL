@@ -1,0 +1,10 @@
+Diffuse=Rim_CarCar_CUSTOM
+Normal=Rim_CarCar_N
+Other[0]=Rim_CarCar_RGB
+Other[1]=Tire_CarCar_D
+Other[2]=Tire_CarCar_N
+Other[3]=WHEEL_ThreeSpoke00_N
+Other[4]=Tire_Scorpion_Vesper_Normal
+Other[5]=Matte_N
+Other[6]=WHEEL_ThreeSpoke00_D
+Other[7]=Tire_Scorpion_Vesper_Diffuse

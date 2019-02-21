@@ -1,0 +1,6 @@
+Diffuse=Fireplace_Diffuse
+Normal=Fireplace_Normal
+Emissive=Fireplace_Emissive
+Other[0]=Fireplace_Rim_Normal
+Other[1]=Matte_N
+Other[2]=Fireplace_Rim_Diffuse

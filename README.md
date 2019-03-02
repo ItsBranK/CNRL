@@ -16,6 +16,6 @@ It takes time converting everything so I included the raw UPK files if you can't
 - Debate to myself whether or not to add back the decrypted UPK's even though they are huge file sizes.
 
 ## Contact
-If you notice any problems or have a suggestion feel free to message me on Discord, I also hang out in the BakkesMod Discord server.
+If you notice any problems or have a suggestion feel free to message me on Discord.
 
 Discord: ItsBranK#4095

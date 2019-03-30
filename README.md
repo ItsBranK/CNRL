@@ -11,7 +11,6 @@ It takes time converting everything so I included the raw UPK files if you can't
 ## To-Do List
 
 - Finish uploading all decrypted & organized Assets.
-- Finish organizing the Graphic Effects folder (There are thousands, I'm lazy so this may take time).
 - Work on uMod ready files for direct use in normal RL.
 - Debate to myself whether or not to add back the decrypted UPK's even though they are huge file sizes.
 

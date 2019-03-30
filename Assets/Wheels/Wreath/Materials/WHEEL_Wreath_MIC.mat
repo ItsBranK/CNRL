@@ -1,0 +1,8 @@
+Diffuse=Wheel_Wreath_D
+Normal=Wheel_Wreath_N
+Emissive=Tire_Wreath_E
+Other[0]=Wheel_Wreath_A
+Other[1]=Tire_Wreath_D
+Other[2]=Tire_Wreath_N
+Other[3]=Matte_N
+Other[4]=Wheel_Wreath_RGB

@@ -1,0 +1,12 @@
+Diffuse=Kettle_Rim_D
+Normal=Kettle_Rim_N
+Emissive=Rim_Lightning_01_E
+Other[0]=Kettle_Rim_E
+Other[1]=Kettle_Rim_RGB
+Other[2]=Tire_Kettle_D
+Other[3]=Tire_Kettle_N
+Other[4]=WHEEL_ThreeSpoke00_N
+Other[5]=Tire_Lighting_01_N
+Other[6]=Matte_N
+Other[7]=WHEEL_ThreeSpoke00_D
+Other[8]=Tire_Lighting_01_D

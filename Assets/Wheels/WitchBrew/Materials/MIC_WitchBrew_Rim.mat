@@ -1,0 +1,13 @@
+Diffuse=Rim_Cauldron_D
+Normal=Rim_Cauldron_N
+Emissive=Rim_Lightning_01_E
+Other[0]=Rim_Cauldron_Glow
+Other[1]=Tread_Cauldron_M
+Other[2]=Tread_Cauldron_D
+Other[3]=Tread_Cauldron_N
+Other[4]=Rim_Lightning_01_N
+Other[5]=Tire_Lighting_01_N
+Other[6]=Matte_N
+Other[7]=Tire_Lighting_01_E
+Other[8]=Rim_Lightning_01_D
+Other[9]=Tire_Lighting_01_D

@@ -10,6 +10,8 @@ It takes time converting everything so I included the raw UPK files if you can't
 
 ## To-Do List
 
+Update: I've abandoned this project for now, If you want an asset ripped from the game DM me.
+
 - Finish uploading all decrypted & organized Assets.
 - Work on uMod ready files for direct use in normal RL.
 - Debate to myself whether or not to add back the decrypted UPK's even though they are huge file sizes.

@@ -1,0 +1,5 @@
+Diffuse=Miku_adult_D
+Normal=Miku_adult_N
+Other[0]=PixelMask
+Other[1]=T_EV_LightBeam_Falloff_02
+Other[2]=BuildingGlass_Mask
